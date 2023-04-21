@@ -1,0 +1,3 @@
+databaseChangeLod:
+  - include:
+      file: liquibase/init.sql
